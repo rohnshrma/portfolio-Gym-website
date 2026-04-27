@@ -49,7 +49,7 @@ const trainers = [
     name: 'Rohan Iyer',
     role: 'Functional Mobility Coach',
     detail: 'Helps clients train pain-free with mobility-first strength plans.',
-    image: 'https://images.pexels.com/photos/7675618/pexels-photo-7675618.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: 'https://images.pexels.com/photos/5485460/pexels-photo-5485460.jpeg?auto=compress&cs=tinysrgb&w=1200',
   },
 ]
 
